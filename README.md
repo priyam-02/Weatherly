@@ -63,17 +63,18 @@ The project includes the following npm scripts:
 	•	npm test: Launches the test runner.
 	•	npm run build: Builds the app for production.
 
-Dependencies
+## Dependencies
 
 The main dependencies for this project include:
-	•	@testing-library/jest-dom
-	•	@testing-library/react
-	•	@testing-library/user-event
-	•	react (v18.3.1)
-	•	react-accessible-accordion
-	•	react-dom
-	•	react-scripts
-	•	react-select-async-paginate
-	•	web-vitals
+
+•@testing-library/jest-dom
+•@testing-library/react
+•@testing-library/user-event
+•react (v18.3.1)
+•react-accessible-accordion
+•react-dom
+•react-scripts
+•react-select-async-paginate
+•web-vitals
 
 Refer to package.json for the full list of dependencies and versions.
