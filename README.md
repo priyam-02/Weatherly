@@ -59,22 +59,22 @@ The application will be available at http://localhost:3000.
 ## Scripts
 
 The project includes the following npm scripts:
-	•	npm start: Runs the app in development mode.
-	•	npm test: Launches the test runner.
-	•	npm run build: Builds the app for production.
+	1. npm start: Runs the app in development mode.
+	2. npm test: Launches the test runner.
+	3. npm run build: Builds the app for production.
 
 ## Dependencies
 
 The main dependencies for this project include:
 
-@testing-library/jest-dom
-@testing-library/react
-@testing-library/user-event
-react (v18.3.1)
-react-accessible-accordion
-react-dom
-react-scripts
-react-select-async-paginate
-web-vitals
+1. @testing-library/jest-dom
+2. @testing-library/react
+3. @testing-library/user-event
+4. react (v18.3.1)
+5. react-accessible-accordion
+6. react-dom
+7. react-scripts
+8. react-select-async-paginate
+9. web-vitals
 
 Refer to package.json for the full list of dependencies and versions.
