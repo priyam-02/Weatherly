@@ -11,6 +11,28 @@ Weatherly is a weather forecasting application that provides users with up-to-da
 	•	Display of current weather conditions and a 7-day forecast
 	•	Accessible design with a user-friendly interface
 
+## Demo
+
+https://github.com/user-attachments/assets/df06eec5-14c0-45bc-a718-fb913bccd53a
+
+
+
+## Screenshots
+
+#### 
+<img width="1512" alt="Screenshot 2024-11-07 at 11 32 24 AM" src="https://github.com/user-attachments/assets/b12c4b93-5505-4aca-89a0-720f713c78ad">
+
+
+####
+<img width="1512" alt="Screenshot 2024-11-07 at 11 32 32 AM" src="https://github.com/user-attachments/assets/c63e1860-42a5-4307-be74-ebaa2f6521bf">
+
+
+####
+<img width="1512" alt="Screenshot 2024-11-07 at 11 34 17 AM" src="https://github.com/user-attachments/assets/9b305d58-91b9-4f45-b0d6-8c62f256ece9">
+
+
+
+
 ## Installation
 
 To set up the project locally, follow these steps:
@@ -32,15 +54,9 @@ To set up the project locally, follow these steps:
 2. **GeoDB Cities:** https://rapidapi.com/wirefreethought/api/geodb-cities
 	
 -> In the api.js file, add your API keys:
-1. export const geoApiOptions = {
-   		method: 'GET',
-	 	headers: {
-   			  'x-rapidapi-key': 'your_api_key',
-			  'x-rapidapi-host': 'wft-geo-db.p.rapidapi.com'
-     			}
-	};
-  
-2. export const WEATHER_API_KEY = 'your_api_key'
+
+1. 'x-rapidapi-key': 'your_api_key',
+2. WEATHER_API_KEY = 'your_api_key'
 
 ### 4.	Start the application:
 
@@ -78,3 +94,4 @@ The main dependencies for this project include:
 9. web-vitals
 
 Refer to package.json for the full list of dependencies and versions.
+
