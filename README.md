@@ -49,10 +49,10 @@ The application will be available at http://localhost:3000.
 
 ## Technologies Used
 
-  • **React:** UI library for building the user interface
-	• **OpenWeatherMap API:** Provides weather data, including current conditions and forecasts
-	•	**GeoDB Cities API:** Location search with autocomplete for a seamless user experience
-	•	**React Accessible Accordion:** Accessibility-friendly accordion component
+• **React:** UI library for building the user interface
+• **OpenWeatherMap API:** Provides weather data, including current conditions and forecasts
+• **GeoDB Cities API:** Location search with autocomplete for a seamless user experience
+• **React Accessible Accordion:** Accessibility-friendly accordion component
 
 ## Scripts
 
