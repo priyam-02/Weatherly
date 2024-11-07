@@ -59,9 +59,9 @@ The application will be available at http://localhost:3000.
 ## Scripts
 
 The project includes the following npm scripts:
-	1. npm start: Runs the app in development mode.
-	2. npm test: Launches the test runner.
-	3. npm run build: Builds the app for production.
+1. npm start: Runs the app in development mode.
+2. npm test: Launches the test runner.
+3. npm run build: Builds the app for production.
 
 ## Dependencies
 
