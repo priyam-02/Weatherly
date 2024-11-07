@@ -17,8 +17,8 @@ To set up the project locally, follow these steps:
 
 ### 1.	Clone the repository:
 
--> git clone https://github.com/your-username/weatherly.git
--> cd weatherly
+1. git clone https://github.com/your-username/weatherly.git
+2. cd weatherly
 
 ### 2. Install Dependencies:
 
