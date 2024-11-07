@@ -25,9 +25,11 @@ cd weatherly
 -> npm install
 
 ### 3.	Set up API Keys:
+
 -> Sign up for API access from:
-        **OpenWeatherMap:** https://openweathermap.org/ 
-        **GeoDB Cities:** https://rapidapi.com/wirefreethought/api/geodb-cities
+
+1. **OpenWeatherMap:** https://openweathermap.org/
+2. **GeoDB Cities:** https://rapidapi.com/wirefreethought/api/geodb-cities
 	
 -> In the api.js file, add your API keys:
        i. export const geoApiOptions = {
@@ -49,10 +51,10 @@ The application will be available at http://localhost:3000.
 
 ## Technologies Used
 
-• **React:** UI library for building the user interface
-• **OpenWeatherMap API:** Provides weather data, including current conditions and forecasts
-• **GeoDB Cities API:** Location search with autocomplete for a seamless user experience
-• **React Accessible Accordion:** Accessibility-friendly accordion component
+1. **React:** UI library for building the user interface
+2. **OpenWeatherMap API:** Provides weather data, including current conditions and forecasts
+3. **GeoDB Cities API:** Location search with autocomplete for a seamless user experience
+4. **React Accessible Accordion:** Accessibility-friendly accordion component
 
 ## Scripts
 
