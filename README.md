@@ -27,7 +27,7 @@ cd weatherly
 ### 3.	Set up API Keys:
 -> Sign up for API access from:
         **OpenWeatherMap:** https://openweathermap.org/ 
-        **GeoDB Cities:** https://rapidapi.com/wirefreethought/api/geodb-cities
+	**GeoDB Cities:** https://rapidapi.com/wirefreethought/api/geodb-cities
 
 -> In the api.js file, add your API keys:
        i. export const geoApiOptions = {
